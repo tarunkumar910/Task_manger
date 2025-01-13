@@ -24,5 +24,5 @@ The **Task Manager** is a simple Java-based desktop application that allows user
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-manager.git
+   https://github.com/tarunkumar910/Task_manger.git
 
