@@ -13,7 +13,10 @@ The **Task Manager** is a simple Java-based desktop application that allows user
 
 ## Screenshots
 
-![Task Manager Main Window](https://via.placeholder.com/500x400.png?text=Task+Manager+Screenshot)
+<h1 align="left">
+  <img src="image/Screenshot 2025-01-14 121948.png" alt="Task_Manger" width="700px"></a>
+  <br>
+</h1>
 
 ## Technologies Used
 
